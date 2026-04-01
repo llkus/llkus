@@ -67,18 +67,24 @@ aprendendo: "Sempre algo novo 🚀"
 
 ---
 
+### 🐍 &nbsp;Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/llkus/llkus/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/llkus/llkus/blob/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://github.com/llkus/llkus/blob/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
 ### 📫 &nbsp;Contato
 
 <div align="center">
   <a href="mailto:lucassalencar1001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/sergio-lucas-b23031156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>&nbsp;
   <a href="https://github.com/llkus" target="_blank"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github" /></a>&nbsp;
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=llkus&color=70a5fd&style=flat-square&label=Visitantes" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=120&section=footer"/>
