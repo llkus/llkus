@@ -70,11 +70,7 @@ aprendendo: "Sempre algo novo 🚀"
 ### 🐍 &nbsp;Contribuições
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/llkus/llkus/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/llkus/llkus/blob/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://github.com/llkus/llkus/blob/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/llkus/llkus/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
